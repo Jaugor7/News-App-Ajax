@@ -1,5 +1,5 @@
 let source = 'the-times-of-india';
-let apiKey = '6897e126937f497a934237b35c350838'
+let apiKey = '#Get your Own ApI key  fom newsapi.org'
 
 let newsAccordian = document.getElementById('newsAccordian');
 const xhr = new XMLHttpRequest();
